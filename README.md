@@ -1,4 +1,4 @@
-## Ubuntu 22.04 üzerine prometheus ve grafana kurulumu
+## Ubuntu 22.04 üzerine prometheus kurulumu
 
 Sistem paketlerini güncelliyoruz
  > sudo apt update
